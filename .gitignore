@@ -4,9 +4,12 @@
 *.pem
 .env
 !config/config.yaml
+temp_auto_push.bat
 config/keys/
 node_modules/
 .next/
 *.log
 /tmp/
 *.prod.yml
+.gitignore
+branch_structure.json
